@@ -1,6 +1,6 @@
 # CustomMTM
 
-CustomMTM is based on [MultiTemplateMatching] with latest (V 1.6.4) features that increase speed by parallelizing individual template searches without below dependicies:
+CustomMTM is based on [MultiTemplateMatching] with latest (V 1.6.4) features that increase speed by parallelizing individual template searches without below dependencies:
 - opencv-python-headless>=4.5.4
 - scikit-image
 
